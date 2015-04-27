@@ -5,3 +5,6 @@
 博客 | 地址
 ----- | -----
 [姜承尧](http://www.innomysql.net) | <http://www.innomysql.net>
+
+
+http://learnxinyminutes.com/
