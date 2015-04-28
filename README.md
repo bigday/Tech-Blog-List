@@ -5,6 +5,7 @@
 博客 | 地址
 ----- | -----
 [姜承尧](http://www.innomysql.net) | <http://www.innomysql.net>
+[进击的马斯特](http://pinkyjie.com/) | <http://pinkyjie.com/>
 
 
 http://learnxinyminutes.com/
