@@ -7,6 +7,7 @@
 [姜承尧](http://www.innomysql.net) | <http://www.innomysql.net>
 [进击的马斯特](http://pinkyjie.com/) | <http://pinkyjie.com/>
 [涯余](http://yayua.github.io/) | <http://yayua.github.io/>
+[TonySeek](https://blog.tonyseek.com/) | <https://blog.tonyseek.com/>
 
 
 http://learnxinyminutes.com/
