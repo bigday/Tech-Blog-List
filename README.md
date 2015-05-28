@@ -8,6 +8,7 @@
 [进击的马斯特](http://pinkyjie.com/) | <http://pinkyjie.com/>
 [涯余](http://yayua.github.io/) | <http://yayua.github.io/>
 [TonySeek](https://blog.tonyseek.com/) | <https://blog.tonyseek.com/>
+[LinE](http://blog.l1n3.net/) | <http://blog.l1n3.net/>
 
 
 http://learnxinyminutes.com/
